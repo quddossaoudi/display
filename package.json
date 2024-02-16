@@ -1,38 +1,41 @@
 {
-  "name": "newp",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
-  },
+  "name": "my_portfolio",
+  "version": "1.0.0",
+  "description": "Quddos Saoudi's Portfolio",
+  "main": "App.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "deploy": "git subtree push --prefix docs origin gh-pages"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quddossaoudi/portfolioTest.git"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "author": "Suresh Murali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quddossaoudi/portfolioTest.git/issues"
+  },
+  "homepage": "https://github.com/quddossaoudi/portfolioTest.git#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
+    "parcel-bundler": "^1.10.3"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.0",
+    "react-responsive": "^6.0.1",
+    "styled-components": "^4.0.3",
+    "ua-parser-js": "^0.7.19",
+    "vh-check": "^2.0.5"
   }
 }
