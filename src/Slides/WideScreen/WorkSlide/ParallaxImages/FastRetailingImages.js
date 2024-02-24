@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import fastRetailingUQImg from '../../../../Assets/Images/FastRetailing/UQ.png';
-import fastRetailingGUImg from '../../../../Assets/Images/FastRetailing/GU.png';
-import fastRetailingPLSTImg from '../../../../Assets/Images/FastRetailing/PLST.png';
+import fastRetailingUQImg from '../../../../Assets/Images/FastRetailing/111111.png';
+import fastRetailingGUImg from '../../../../Assets/Images/FastRetailing/123.png';
+import fastRetailingPLSTImg from '../../../../Assets/Images/FastRetailing/12.png';
 import fastRetailingGU2Img from '../../../../Assets/Images/FastRetailing/GU2.png';
 
 
