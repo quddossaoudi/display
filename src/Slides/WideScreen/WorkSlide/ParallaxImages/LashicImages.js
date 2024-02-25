@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import alertImg from '../../../../Assets/Images/Lashic/Alert.png';
-import taskImg from '../../../../Assets/Images/Lashic/Task.png';
-import customersImg from '../../../../Assets/Images/Lashic/Customers.png';
-import customerDetailImg from '../../../../Assets/Images/Lashic/CustomerDetail.png';
+import alertImg from '../../../../Assets/Images/Lashic/three.png';
+import taskImg from '../../../../Assets/Images/Lashic/another.png';
+import customersImg from '../../../../Assets/Images/Lashic/four.png';
+import customerDetailImg from '../../../../Assets/Images/Lashic/two.png';
 
 const Task = styled.img.attrs({
   style: ({ scroll }) => ({
