@@ -1,8 +1,9 @@
 {
-  "name": "my_portfolio",
+  "name": "Quddos",
   "version": "1.0.0",
   "description": "Quddos Saoudi's Portfolio",
   "main": "App.js",
+  "homepage": "https://quddossaoudi.github.io/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel src/index.html",
@@ -18,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/quddossaoudi/portfolioTest.git/issues"
   },
-  "homepage": "https://github.com/quddossaoudi/portfolioTest.git#readme",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
