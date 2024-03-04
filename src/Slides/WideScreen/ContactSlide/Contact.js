@@ -90,11 +90,11 @@ class Contact extends Component {
         <ContactTitle scrollPercent={scrollPercent}>CONTACT</ContactTitle>
         <SocialMediaIcons>
           {/* <SocialLogo imgURL={twitterImg} alternate="Twitter" redirectURL="https://twitter.com/sureshmurali29" /> */}
-          <SocialLogo imgURL={githubImg} alternate="Github" redirectURL="https://github.com/sureshmurali" />
-          <SocialLogo imgURL={mailImg} alternate="Mail" redirectURL="mailto:sureshmurali29@gmail.com" />
+          <SocialLogo imgURL={githubImg} alternate="Github" redirectURL="https://gitlab.com/QuddosSaoudi" />
+          <SocialLogo imgURL={mailImg} alternate="Mail" redirectURL="mailto:quddossaoudi@gmail.com" />
           {/* <SocialLogo imgURL={instaImg} alternate="Instagram" redirectURL="https://www.instagram.com/sureshmurali_/" /> */}
           {/* <SocialLogo imgURL={dribbbleImg} alternate="Dribbble" redirectURL="https://dribbble.com/sureshmurali29" /> */}
-          <SocialLogo imgURL={linkedInImg} alternate="Linkedin" redirectURL="https://www.linkedin.com/in/sureshmurali29" />
+          <SocialLogo imgURL={linkedInImg} alternate="Linkedin" redirectURL="https://www.linkedin.com/in/quddossaoudi" />
         </SocialMediaIcons>
       </Container>
     );
