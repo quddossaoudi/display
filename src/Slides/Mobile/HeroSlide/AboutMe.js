@@ -44,7 +44,7 @@ class AboutMe extends Component {
     return (
       <Container>
         <AboutMeDescription>
-          Crafting user friendly and aesthetic UI designs
+          Crafting user friendly and advanced softwares
           is not just my profession, it's my passion.
         </AboutMeDescription>
       </Container>

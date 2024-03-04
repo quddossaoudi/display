@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import eyepTabletImg from '../../../../Assets/Images/Eyep/Tablet.png';
-import eyepIphoneImg from '../../../../Assets/Images/Eyep/Iphone.png';
+import eyepTabletImg from '../../../../Assets/Images/Eyep/ipadyea.png';
+import eyepIphoneImg from '../../../../Assets/Images/Eyep/rent.png';
 
 
 const Iphone = styled.img.attrs({

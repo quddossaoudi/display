@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import fastRetailingUQImg from '../../../../Assets/Images/FastRetailing/111111.png';
-import fastRetailingGUImg from '../../../../Assets/Images/FastRetailing/123.png';
-import fastRetailingPLSTImg from '../../../../Assets/Images/FastRetailing/12.png';
-import fastRetailingGU2Img from '../../../../Assets/Images/FastRetailing/8.png';
+import fastRetailingUQImg from '../../../../Assets/Images/FastRetailing/hd.png';
+import fastRetailingGUImg from '../../../../Assets/Images/FastRetailing/guuu.png';
+import fastRetailingPLSTImg from '../../../../Assets/Images/FastRetailing/nike.png';
+import fastRetailingGU2Img from '../../../../Assets/Images/FastRetailing/plstt.png';
 
 
 const FastRetailingPhoneUQ = styled.img.attrs({

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import PropTypes from 'prop-types';
-import voistrapHomeImg from '../../../../Assets/Images/Voistrap/Home.png';
-import voistrapMeetingsImg from '../../../../Assets/Images/Voistrap/Meetings.png';
-import voistrapPeopleImg from '../../../../Assets/Images/Voistrap/People.png';
-import voistrapScoreImg from '../../../../Assets/Images/Voistrap/Score.png';
+import voistrapHomeImg from '../../../../Assets/Images/Voistrap/kidsoclock1.png';
+import voistrapMeetingsImg from '../../../../Assets/Images/Voistrap/kidsoclock2.png';
+import voistrapPeopleImg from '../../../../Assets/Images/Voistrap/kidsoclock4.png';
+import voistrapScoreImg from '../../../../Assets/Images/Voistrap/kidsoclock3.png';
 
 
 const VoistrapPhoneHome = styled.img.attrs({
