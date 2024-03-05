@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quddossaoudi/portfolioTest.git"
+    "url": "git+https://github.com/quddossaoudi/portfolio.git"
   },
   "author": "Quddos Saoudi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/quddossaoudi/portfolioTest.git/issues"
+    "url": "https://github.com/quddossaoudi/portfolio.git/issues"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
