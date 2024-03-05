@@ -8,7 +8,7 @@
 
 # production
 /build
-/dist
+# /dist
 .cache
 /docs
 
