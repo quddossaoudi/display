@@ -74,7 +74,6 @@ class WhatsMyFoodImages extends Component {
     const heighttoBeReducedinVH = ((boxHeight * index) - 100);
     const scrollOffset = (screenHeight * heighttoBeReducedinVH) / 100;
     const scrollOffsetInPercent = (scrollOffset * 100 / scrollHeight) + index - 1;
-    // console.log('WMF scrollOffsetPercent ', scrollOffsetInPercent);
     scrollPercent -= scrollOffsetInPercent;
     if (scrollPercent > 0 && scrollPercent < 0.1) {
       console.log('WMF');
