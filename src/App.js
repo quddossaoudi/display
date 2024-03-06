@@ -45,4 +45,3 @@ class App extends Component {
   }
 }
 
-render(React.createElement(App), document.getElementById('root'));
