@@ -2,8 +2,8 @@
   "name": "d",
   "version": "1.0.0",
   "description": "Quddos Saoudi's Portfolio",
-  "main": "App.js",
-  "homepage": "https://quddossaoudi.github.io/",
+  "homepage": "https://quddossaoudi.github.io/display/",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
