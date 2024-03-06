@@ -1,4 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable */
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import device from '../../../Assets/Responsive/breakpoints';
