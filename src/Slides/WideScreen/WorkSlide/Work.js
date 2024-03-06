@@ -38,7 +38,7 @@ class Work extends Component {
       {
         number: '02',
         projectName: 'Check Bike',
-        projectDesc: "German marketplace that helps bikers book or provide bikes to customers all over Germany.",
+        projectDesc: 'German marketplace that helps bikers book or provide bikes to customers all over Germany.',
         projectType: 'APP SUITE',
         roles: ['Full Stack Developer'],
       },

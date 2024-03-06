@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { render } from 'react-dom';
+// import { render } from 'react-dom';
 import { createGlobalStyle } from 'styled-components';
 import MediaQuery from 'react-responsive';
 import WideScreenHero from './Slides/WideScreen/HeroSlide/Hero';
@@ -45,3 +45,4 @@ class App extends Component {
   }
 }
 
+export default App;
